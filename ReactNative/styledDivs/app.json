@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "styledDivs",
+    "slug": "styledDivs",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
